@@ -16,4 +16,4 @@ My research involved:
 
 This project strengthened my skills in genomic data integration, statistical genetics, machine learning–based feature selection, and clinical data analysis using various tools.
 
-Advisor: Nina Oparina, PhD
+Advisor: Nina Oparina, PhD; Dag Leonard, MD, PhD
